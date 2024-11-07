@@ -11,15 +11,12 @@
 
 ## 系统要求
 
-- Python 3.6+
+- Python 3.7+
 - PyTorch 1.8+
 - CUDA (可选，用于 GPU 加速)
 
 ## 安装依赖
-torch>=1.8.0
-numpy>=1.19.2
-tqdm>=4.60.0
-soundfile>=0.10.3
-tensorflow==2.4.1
-librosa==0.7.2
-pypesq==1.2.4
+
+## 使用预训练模型
+
+### 从TensorFlow预训练模型加载
